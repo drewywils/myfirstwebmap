@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2022 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2022</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/3303 Clark Avenue, Raleigh, NC/Chamberlain Park, Raleigh, NC 27607/@35.7919352,-78.6845142,15z/data=!4m15!4m14!1m5!1m1!1s0x89acf5c003467aeb:0x702a7e6389bb9b79!2m2!1d-78.6798716!2d35.793165!1m5!1m1!1s0x89acf5fe36e6782b:0x6c338c8da85722b9!2m2!1d-78.664946!2d35.7920716!3e2!5i1?hl=en</url-->
+    <time>2022-02-23T20:51:05Z</time>
+  </metadata>
+  <wpt lat="35.793165" lon="-78.6798716">
+    <name>Home</name>
+    <desc>3303 Clark Ave, Raleigh, NC 27607</desc>
+  </wpt>
+  <wpt lat="35.7920716" lon="-78.664946">
+    <name>Chamberlain Park</name>
+    <desc>Chamberlain Park, Raleigh, NC 27607</desc>
+  </wpt>
+<trk>
+  <name>3303 Clark Avenue to Chamberlain Park</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="35.7933804" lon="-78.6797681">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="35.79324" lon="-78.67933">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="35.79297" lon="-78.67846">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="35.79284" lon="-78.67805">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="35.79279" lon="-78.67793">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="35.79263" lon="-78.67743">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="35.79262" lon="-78.67741">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="35.79261" lon="-78.67736">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="35.7926" lon="-78.67732">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="35.7926" lon="-78.67728">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="35.7926" lon="-78.67723">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="35.7926" lon="-78.67658">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="35.79258" lon="-78.67578">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="35.79258" lon="-78.67569">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="35.792581" lon="-78.6756896">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="35.79215" lon="-78.67572">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="35.7921534" lon="-78.6757187">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="35.79214" lon="-78.6751">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="35.79212" lon="-78.67449">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="35.79213" lon="-78.67429">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="35.79212" lon="-78.67404">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="35.79212" lon="-78.67382">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="35.7921" lon="-78.67322">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="35.79209" lon="-78.67302">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="35.79207" lon="-78.67236">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="35.79206" lon="-78.67191">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="35.79206" lon="-78.67184">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="35.79205" lon="-78.67173">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="35.7919" lon="-78.67068">
+    <name>TP029</name>
+  </trkpt>
+  <trkpt lat="35.79189" lon="-78.6706">
+    <name>TP030</name>
+  </trkpt>
+  <trkpt lat="35.79177" lon="-78.66978">
+    <name>TP031</name>
+  </trkpt>
+  <trkpt lat="35.79173" lon="-78.66956">
+    <name>TP032</name>
+  </trkpt>
+  <trkpt lat="35.7917326" lon="-78.6695571">
+    <name>TP033</name>
+  </trkpt>
+  <trkpt lat="35.79214" lon="-78.66922">
+    <name>TP034</name>
+  </trkpt>
+  <trkpt lat="35.7923" lon="-78.66901">
+    <name>TP035</name>
+  </trkpt>
+  <trkpt lat="35.79239" lon="-78.66887">
+    <name>TP036</name>
+  </trkpt>
+  <trkpt lat="35.79241" lon="-78.66884">
+    <name>TP037</name>
+  </trkpt>
+  <trkpt lat="35.79246" lon="-78.66878">
+    <name>TP038</name>
+  </trkpt>
+  <trkpt lat="35.79249" lon="-78.66865">
+    <name>TP039</name>
+  </trkpt>
+  <trkpt lat="35.7925" lon="-78.66831">
+    <name>TP040</name>
+  </trkpt>
+  <trkpt lat="35.79245" lon="-78.66813">
+    <name>TP041</name>
+  </trkpt>
+  <trkpt lat="35.79232" lon="-78.66794">
+    <name>TP042</name>
+  </trkpt>
+  <trkpt lat="35.79229" lon="-78.6679">
+    <name>TP043</name>
+  </trkpt>
+  <trkpt lat="35.79224" lon="-78.66784">
+    <name>TP044</name>
+  </trkpt>
+  <trkpt lat="35.79218" lon="-78.6678">
+    <name>TP045</name>
+  </trkpt>
+  <trkpt lat="35.79206" lon="-78.66775">
+    <name>TP046</name>
+  </trkpt>
+  <trkpt lat="35.79182" lon="-78.66768">
+    <name>TP047</name>
+  </trkpt>
+  <trkpt lat="35.7918172" lon="-78.6676792">
+    <name>TP048</name>
+  </trkpt>
+  <trkpt lat="35.79181" lon="-78.66746">
+    <name>TP049</name>
+  </trkpt>
+  <trkpt lat="35.7918" lon="-78.66726">
+    <name>TP050</name>
+  </trkpt>
+  <trkpt lat="35.79179" lon="-78.66701">
+    <name>TP051</name>
+  </trkpt>
+  <trkpt lat="35.79177" lon="-78.66648">
+    <name>TP052</name>
+  </trkpt>
+  <trkpt lat="35.79175" lon="-78.66604">
+    <name>TP053</name>
+  </trkpt>
+  <trkpt lat="35.79174" lon="-78.66592">
+    <name>TP054</name>
+  </trkpt>
+  <trkpt lat="35.79174" lon="-78.66582">
+    <name>TP055</name>
+  </trkpt>
+  <trkpt lat="35.79173" lon="-78.66529">
+    <name>TP056</name>
+  </trkpt>
+  <trkpt lat="35.791727" lon="-78.6652864">
+    <name>TP057</name>
+  </trkpt>
+  <trkpt lat="35.79175" lon="-78.66526">
+    <name>TP058</name>
+  </trkpt>
+  <trkpt lat="35.79178" lon="-78.66525">
+    <name>TP059</name>
+  </trkpt>
+  <trkpt lat="35.79182" lon="-78.66525">
+    <name>TP060</name>
+  </trkpt>
+  <trkpt lat="35.79208" lon="-78.66525">
+    <name>TP061</name>
+  </trkpt>
+  <trkpt lat="35.7920752" lon="-78.6652456">
+    <name>TP062</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>
